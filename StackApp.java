@@ -21,7 +21,6 @@ public class StackApp {
 		
     //Removing values from top
 		System.out.println("Pop value is : - " + st.pop());
-    
 	}
 
 }
