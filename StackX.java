@@ -64,8 +64,4 @@ public class StackX {
 		}
 	}
 	
-  
-	public void Display(){
-		System.out.println(array);
-	}
 }
